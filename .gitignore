@@ -1,0 +1,9 @@
+# built application files
+*.user
+ 
+
+#Linux
+*~
+
+# KDE
+.directory
