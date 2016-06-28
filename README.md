@@ -1,11 +1,11 @@
 C++ TUTORIAL
 --------
 
-Un pequeño tutorial con ejemplos básicos de uso del lenguaje **C++**. Los temas tratados y sus respectivas explicaciones se encuentran en mi Blog y por supuesto todos los aportes al código y a los posts son bienvenidos.
+Una serie de tutoriales con explicación y ejemplos de los fundamentos del uso del lenguaje **C++**. Los temas tratados y sus respectivas explicaciones se encuentran en mi Blog y por supuesto todos los aportes al código y a los posts son bienvenidos.
 
 Dentro de los ejemplos verás un archivo .pro debido al uso del IDE Qt-Creator. Puedes compilar los ejemplos fácilmente con este entorno, pero eres libres de usar el de tu preferencia. 
 
-###C++ Básico:
+# Fundamentos de C++:
 
 - Punteros: [http://ronnyml.wordpress.com/2009/07/04/vectores-matrices-y-punteros-en-c/][1]
 - Matrices: [http://ronnyml.wordpress.com/2009/07/04/operaciones-con-matrices-clase-matriz-en-c/][2]
